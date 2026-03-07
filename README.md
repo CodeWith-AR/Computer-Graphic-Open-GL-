@@ -31,15 +31,17 @@ Use the arrow keys to interact with the scene:
 
 ## 📸 Output / Screenshots
 
-*(Note: Upload your screenshot images to a folder in your repo like `/images` and replace the paths below)*
 
-**Car parked in front of the house:**
+**Car parked in front of the house:** 
+
 ![Car Parked](images/car_parked.png)
 
 **Car moves forward:**
+
 ![Car Moving](images/car_moving.png)
 
 **Car can Switch Lane:**
+
 ![Car Switching Lanes](images/car_lane_switch.png)
 
 ---
