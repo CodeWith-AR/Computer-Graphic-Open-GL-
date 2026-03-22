@@ -84,4 +84,4 @@ g++ main.cpp -o myScene -lGL -lGLU -lglut
 # Run the executable
 ./myScene
 
--
+--
